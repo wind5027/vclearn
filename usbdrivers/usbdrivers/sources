@@ -1,0 +1,5 @@
+TARGETNAME=usbdrivers
+TARGETTYPE=DRIVER
+
+SOURCES=stdafx.cpp \
+	usbdrivers.cpp
